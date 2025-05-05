@@ -25,4 +25,4 @@ Este plugin local para Moodle 4.5 expone un servicio web RESTful que permite obt
 
 ```bash
 cd /ruta/a/moodle/local
-git clone https://tu-repo.git listcourses](https://github.com/DanielToledo-99/restApiMoodle.git
+git clone https://github.com/DanielToledo-99/restApiMoodle.git
